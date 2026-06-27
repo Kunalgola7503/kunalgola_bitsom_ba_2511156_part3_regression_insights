@@ -74,24 +74,3 @@ Focus on **marketing spend, inventory availability, and customer rating** — al
 | `screenshots/residuals_preview.png` | Top 5 positive and top 5 negative residuals |
 | `screenshots/model_comparison_preview.png` | All 5 models compared side by side |
 
-## Repository Structure
-
-```
-part3_regression_insights/
-├── data/
-│   └── business_regression_data.xlsx
-├── analysis/
-│   ├── regression_workbook.xlsx
-│   ├── model_comparison.md
-│   └── residual_analysis.md
-├── outputs/
-│   ├── regression_summary.xlsx
-│   ├── final_recommendation.md
-│   └── model_equations.md
-├── screenshots/
-│   ├── simple_regression_output.png
-│   ├── multiple_regression_output.png
-│   ├── residuals_preview.png
-│   └── model_comparison_preview.png
-└── README.md
-```
